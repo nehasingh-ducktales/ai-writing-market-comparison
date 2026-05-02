@@ -1,0 +1,8 @@
+Convert the following research notes about {company} into a Gamma-ready markdown presentation deck.
+
+Research notes:
+---
+{research_notes}
+---
+
+Follow the slide structure rules exactly. Output only the markdown, no preamble.
